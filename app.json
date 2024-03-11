@@ -17,8 +17,8 @@
   "stack": "container",
   "env": {
     "OWNER_NAME": {
-      "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "description": "Briton_Codex✔🐱‍🚀",
+      "value": "Briton_Codex✔🐱‍🚀🎶"
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
@@ -31,16 +31,16 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here. Same as Above",
-      "value": ""
+      "value": "BritonCodex"
     },
     "ANTILINK_VALUES": {
       "description": "Put antilink values. IT will take action on below links , change according to your need",
-      "value": "https://,chat.whatsapp.com,youtube.com,instagram.com,tiktok.com,vt.tiktok.com,wa.me,facebook.com",
+      "value": "https://,chat.whatsapp.com,facebook.com,xnxx.com,pornhub.com,telegram.com",
       "required": false
     },
     "ANTI_BAD_WORDS": {
       "description": "Add Anti Bad_Words. Change or add according to your need",
-      "value": "Fuck,porn,sex,xxx,fucker,asshole,fuck you,fuck off",
+      "value": "Fuck,porn,sex,xxx,fucker,asshole,fuck you,fuck off,xvidoes",
       "required": false
     },
     "MSGS_IN_LOG": {
@@ -55,11 +55,11 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": "/"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "2540705579314"
     },
     "SESSION_ID": {
       "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
@@ -84,7 +84,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author Name.",
-      "value": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
+      "value": "bRT❚🆉🐱‍🏍",
       "required": false
     },
     "MZTIT": {
@@ -94,7 +94,7 @@
     },
     "TIME_ZONE": {
       "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
-      "value": "Asia/Karachi"
+      "value": "Kenya/Nairobi"
     },
     "BOT_NAME": {
       "description": "Add Your Own Bot Name",
